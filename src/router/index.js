@@ -7,6 +7,7 @@ import Genesis from '@/genesis/Index'
 Vue.use(Router)
 
 export default new Router({
+  root: '/dadzoo2',
   mode: 'history',
   routes: [
     {
